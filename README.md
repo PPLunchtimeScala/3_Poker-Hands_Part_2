@@ -18,6 +18,7 @@ Note:
 ##Description
 Last week's problem was longer than planned and many people didn't get a chance to finish it. 
 This week, have a look at the code in last week's repo: https://github.com/PPLunchtimeScala/2_Poker-Hands
+
 Now steal as much as you want and finish the problem! Seriously, read all the code and grab the best bits to start you off.
 
 ##Tests - same as last week!
